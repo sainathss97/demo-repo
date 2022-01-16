@@ -1,5 +1,4 @@
-# Demo Titile:
+# Demo Titile: Hello There,
 
-## Some Description:
-
+## Some Description: This is a Tutorial for Git and GitHub...
 
