@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Kenobi: Hello There 
 
 
-=======
-Ah.. Genral Kenobi
->>>>>>> main
